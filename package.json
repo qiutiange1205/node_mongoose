@@ -1,0 +1,23 @@
+{
+  "name": "node_mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiutiange1205/node_mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiutiange1205/node_mongoose/issues"
+  },
+  "homepage": "https://github.com/qiutiange1205/node_mongoose#readme",
+  "devDependencies": {
+    "mongoose": "^4.13.9"
+  }
+}
